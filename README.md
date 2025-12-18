@@ -1,1 +1,1 @@
-magical-pavlova-f182b5.netlify.app
+https://magical-pavlova-f182b5.netlify.app
